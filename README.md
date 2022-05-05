@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @zoutre
+- 👀 This repository contains the core smart contracts for the Zoutre V1 Protocol ...
+- 🌱 In order to deploy this code to a local testnet, you should install the npm package @ ... and import the factory bytecode located at @ ... 
+- 📫 How to reach me ...
+
+<!---
+zoutre/zoutre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
